@@ -7,6 +7,19 @@ footer{
 	background-color: #018ccd;
 }
 
+div.col-md-7{
+	margin: 10px 0;
+}
+
+a.navbar-brand{
+	max-width: 200px;
+	height: 50%;
+}
+
+a.faceimg img{
+	width: 20px;
+	height: 20px;
+}
 
 .img-center{
 	text-align: center !important;
