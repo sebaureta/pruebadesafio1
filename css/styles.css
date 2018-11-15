@@ -18,6 +18,14 @@ footer{
 	height: 300px;
 }
 
+nav.navbar{
+	z-index: 100;
+}
+
+nav.bg-nuevo{
+
+	background-color: #018ccd;
+}
 
 
 /* Aqui comienza CCS de RRSS */
